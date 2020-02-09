@@ -1,0 +1,2 @@
+CONTAINER ID        IMAGE                 COMMAND                  CREATED             STATUS              PORTS                            NAMES
+20093c80046a        python-flask:latest   "python3 -u /app/pyt…"   2 minutes ago       Up 2 minutes        5000/tcp, 0.0.0.0:5000->80/tcp   quizzical_chaplygin
